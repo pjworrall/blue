@@ -14,7 +14,7 @@ I found that what people eat influenced the type of bacteria we have in our gut,
 
 *Would my Mum, and our family, have suffered less if we had simply eaten differently?* 
 
-I am hoping this project can provide people with tools to take advantage of this new area of science and help with the new area of medicine I have learned is call **psychobiotics**."
+I am hoping this project can provide people with tools to take advantage of this new area of science and help with the new area of medicine I have learned is called **psychobiotics**."
 
 ## Privacy
 
@@ -38,7 +38,7 @@ It will also provide:
 
 * An App to view the data and provide and revoke  consent for others to access it
 
-* A system that, with consent, consumes microbiome data for analysis over a population and removes data when constent is revoked
+* A system that, with consent, consumes microbiome data for analysis over a population and removes data when consent is revoked
 
 # Technology
 
