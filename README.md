@@ -12,7 +12,9 @@ During the pandemic of 2020 I came across claims that bacteria that live in our 
 
 I found that what people eat influenced the type of bacteria we have in our gut, so I asked myself:
 
-*Would my Mum, and our family, have suffered less if we had simply eaten differently?* "
+*Would my Mum, and our family, have suffered less if we had simply eaten differently?* 
+
+I am hoping this project can provide people with tools to take advantage of this new area of science and help with the new area of medicine I have learned is call **psychobiotics**."
 
 ## Privacy
 
