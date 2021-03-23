@@ -22,6 +22,26 @@ A key principle of this project is privacy. Most of us are aware of how concerne
 
 So this project plans to have privacy by design. It will do that by adopting the design princples of Sir Tim Berners Lee's [SOLID](https://solidproject.org/).
 
+# Output/Goals
 
+The project plans to provide the following, means to:
+
+* publish data about a gut microbiome analysis
+
+* receive and store data about one's gut microbiome
+
+* link the gut microbiome data with knowledge about the neurological influences it has
+
+* link the gut microbiome data with knowledge about the foods that feed it
+
+It will also provide:
+
+* An App to view the data and provide and revoke  consent for others to access it
+
+* A system that, with consent, consumes microbiome data for analysis over a population and removes data when constent is revoked
+
+# Technology
+
+The solution will use open, interoperable, standards using [SOLID](https://solidproject.org/) as a design pattern and existing data definitions/schema/ontologies where they exist.
 
 
