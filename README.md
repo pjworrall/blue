@@ -44,4 +44,8 @@ It will also provide:
 
 The solution will use open, interoperable, standards using [SOLID](https://solidproject.org/) as a design pattern and existing data definitions/schema/ontologies where they exist.
 
+# Other works
+
+Hopefully we will build on other works. @pjworrall has had an initial conversation with @tingcosmos about her project [MiKB4MD](https://github.com/tingcosmos/MiKG4MD) at the [Centre for Integrative Bioinformatics VU](https://www.ibi.vu.nl/) in Amsterdam.
+
 
