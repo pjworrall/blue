@@ -46,6 +46,15 @@ The solution will use open, interoperable, standards using [SOLID](https://solid
 
 # Other works
 
-Hopefully we will build on other works. @pjworrall has had an initial conversation with @tingcosmos about her project [MiKB4MD](https://github.com/tingcosmos/MiKG4MD) at the [Centre for Integrative Bioinformatics VU](https://www.ibi.vu.nl/) in Amsterdam.
+Hopefully we will build on other works. Works so far that might play a role are:
+
+* @tingcosmos project [MiKB4MD](https://github.com/tingcosmos/MiKG4MD) at the [Centre for Integrative Bioinformatics VU](https://www.ibi.vu.nl/) in Amsterdam.
+* @jannahastings [Emotion Ontology] https://github.com/jannahastings/emotion-ontology suggested by @trevorlazarus
+
+
+
+
+
+
 
 
